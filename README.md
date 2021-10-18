@@ -7,4 +7,4 @@ If you share or adapt the work, please be sure to mention the video itself.
 
 https://www.youtube.com/watch?v=n-e9C8g5x68
 
-I am deeply sorry if this code is a mess. It was never intended to distribute, and i will be very happy if someone could make some sort of web version or standalone programm for others to create visuals.
+I am deeply sorry if this code is a mess. It was never intended for distribution, and i will be very happy if someone could make some sort of web version or standalone programm for others to create visuals.
